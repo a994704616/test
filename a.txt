@@ -1,5 +1,9 @@
 sadasdsa
 jdkfhksdjhfkjds
 lijiawei
+<<<<<<< HEAD
 000000
 555555555555555555555555
+=======
+00000000
+>>>>>>> 80d0bab930e9d28bbfecc19946f54b12221ecd74
